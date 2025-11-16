@@ -43,3 +43,4 @@ Todas as imagens usadas no projeto estão dentro da pasta imagens/.
 
 Se algum arquivo de imagem estiver faltando, o Streamlit mostrará uma mensagem “Imagem não disponível”.
 link do projeto no google drive https://drive.google.com/file/d/1OW6y1Y4uF2Hi1VTfzU5doRXlce2vV7Km/view?usp=sharing
+video https://drive.google.com/file/d/1NOIT952ewKbkFJ4bnNdZ0kzpNm-6zvDx/view?usp=sharing
